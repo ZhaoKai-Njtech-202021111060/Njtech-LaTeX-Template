@@ -1,4 +1,6 @@
-本模板参考开源项目\href{https://github.com/mohuangrui/ucasthesis}{Github/ucasthesis}: \url{https://github.com/mohuangrui/ucasthesis}.
+本模板参考开源项目 https://github.com/mohuangrui/ucasthesis
+
+如需修改，请参考源项目的wiki文档
 
 该项目许可协议：LaTeX Project Public License 1.3c
 
@@ -19,3 +21,12 @@
 % and the derived file pig.sty.
 ```
 
+本项目不授权任何除github/overleaf以外平台的代码转载。
+
+抵制中国各种虚假开源（包括但不限于gitcode/CSDN等）
+
+由于作者已毕业，学校邮箱会被回收，该项目开源后将会被存档。
+
+欢迎各位同学在此基础上继续完善该模板！！！
+
+提前祝大家毕业快乐！！！
